@@ -17,12 +17,12 @@ const users = [
   {
     email: 'jose@undefined.sh',
     name: 'Jose Maria',
-    password: config.defaultUserPassword
+    password: config.defaulUserPassword
   },
   {
     email: 'maria@undefined.sh',
     name: 'Maria Jose',
-    password: config.defaultUserPassword
+    password: config.defaulUserPassword
   }
 ];
 
